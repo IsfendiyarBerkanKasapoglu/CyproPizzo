@@ -110,3 +110,11 @@
 .form {
     color: white;
 }
+.mapstore{
+    width: 500px;
+    height: 350px;
+    margin-left: 400px;
+    border-radius: 5%;
+    justify-content: center;
+
+}
