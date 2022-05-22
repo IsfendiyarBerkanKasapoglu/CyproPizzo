@@ -1,0 +1,112 @@
+.button {
+    
+    border: none;
+    color: ;
+    font-size: 30px;
+    margin: 50px 50px;
+    cursor: pointer;
+    border-radius: 30px;
+ }
+.text2 {
+    color: rgb(11, 0, 0);
+    text-align: center;
+    font-size: 40px;
+    font-family: sans-serif;
+    margin-top: 120px;
+}
+.borderexample {
+    border-style:solid;
+    border-color:#287EC7;
+   }
+.cs {
+    background-color: rgb(228,210,155);
+    width: auto;
+    height: 80px;
+    border-radius: 50px;
+    margin-top: -30px;
+}
+.baslik {
+    color: white;
+    font-size: 40px;
+    text-align: 5px;
+    text-decoration: dotted;
+    
+ 
+}
+.body01 {
+    background-image:url(Photos/pizza.jpeg);
+}
+.p1 {
+    color: white;
+    font-size: 50px;
+    text-decoration:double ;
+  
+}
+.p2 {
+    color: white;
+    font-size: 60px;
+    text-decoration: underline;
+}
+
+.profil {
+    height: 250px;
+    width: 390px;
+    border-radius: 10%;
+    margin:0 auto; 
+    margin-top: 100 px;
+}
+.benim {
+    font-size: 20px;
+    font-weight: bold;
+}
+.icon {
+    height: 25px;
+    width: 25px;
+    margin-left: 70px;
+}
+.piz {
+    margin-left: 60px;
+}
+.profil2 {
+    border-radius: 10%;
+    height: 250px;
+    width: 390px;
+}
+.home_page{
+    margin-top: 100px;
+}
+.ops{
+    font-size: 29px;
+}
+.baslikk {
+    color: white;
+    font-size: 80px;
+}
+.l1 {
+    color:white
+}
+.pizza1{
+    height: 200px;
+    width: 200px;
+}
+.homeicon {
+    
+    height: 30px;
+    width: 30px;
+}
+.map{
+    width: 500px;
+    height: 350px;
+    margin-left: 300px;
+    border-radius: 5%;
+}
+.bodyy {
+ 
+}
+.body02 {
+    background-image:url(Photos/pizza.jpeg);
+
+}
+.form {
+    color: white;
+}
