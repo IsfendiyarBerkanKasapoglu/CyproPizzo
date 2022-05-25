@@ -90,11 +90,7 @@
     height: 200px;
     width: 200px;
 }
-.homeicon {
-    
-    height: 30px;
-    width: 30px;
-}
+
 .map{
     width: 500px;
     height: 350px;
@@ -125,4 +121,84 @@
     height: 80px;
     border-radius: 50px;
 
+}
+.logouticon {
+    height: 30px;
+    width: 30px;
+    margin-left: 1px;
+    margin-top: -20px;
+
+}
+.logout {  
+    margin-left: 1550px;
+    margin-top: 1px;
+    font-size: 20px;
+
+}
+.group {
+    background-image:url(Photos/woodd.jpeg);
+}
+.manipeni {
+    color: black;
+    font-size: 50px;
+    margin-left: 797px;
+    margin-top: 30px;
+
+}
+.table1 {
+    margin-bottom: -130px;
+    margin-left: 200px;
+}
+.a1 {
+    font-size: 28px;
+}
+.a2 {
+    font-size: 19px;
+    text-decoration: underline;
+}
+.a3 {
+    font-size: 17px;
+}
+.a4 {
+    font-size: 17px;
+
+
+}
+.masa2 {
+    margin-left: 1350px;
+    margin-top: -185px;
+    
+    
+}
+.table3 {
+    margin-top: 50px;
+}
+.marr {
+    height: 200px;
+    width: 200px;
+    margin-left: 30px;
+    margin-top: -20px;
+}
+.karr {
+    height: 200px;
+    width: 200px;
+    margin-left: 750px;
+}
+.masa3 {
+    margin-left: 1350px;
+    margin-top: -210px;
+}
+.ali {
+    height: 200px;
+    width: 200px;
+    margin-left: 740px;
+}
+.baba {
+    height: 200px;
+    width: 200px;
+    margin-left: 30px;
+}
+.table4 {
+    margin-bottom: -130px;
+    margin-left: 200px;
 }
