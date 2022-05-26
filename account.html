@@ -8,9 +8,10 @@
     <title>Create an account</title>
 </head>
 <body class="body02">
+    <img class="backimage"  onclick="location.href='girne.html'" src="Photos/backicon.png">
     <div align="center" class="ops">
         <p1 class="baslikk">Cypro Pizzo</p1><br><br>
-        <img onclick="location.href='index.html'" value="Homepage" class="homeicon" src="Photos/home.icon.webp">
+        <img onclick="location.href='index.html'" value="Homepage" class="homeicon" src="Photos/home.png">
 
     </div>
         
@@ -18,11 +19,15 @@
             <br>
             <br>
             <form class="form">
-                Name:<input type="text" name="txtIsim">
+                Name:<input type="text" name="name" >
                 <br><br>
-                Surname:<input type="text" name="txtSIsim">
+                Surname:<input type="text" name="Surname">
                 <br><br>
                 Mail:<input type="text" name="mail">
+                <br><br>
+                Telephone No:<input type="text" name="phone" placeholder="ex: +90 533 000 00 00 ">
+                <br><br>
+                Password:<input type="password" name="password" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" title="Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters">
                 <br><br>
                 Gender:<input type="radio" name="Gender">Male <input type="radio" name="Gender">Female
                 <br><br>
